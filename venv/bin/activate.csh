@@ -10,7 +10,7 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
-setenv VIRTUAL_ENV '/home/vin/Desktop/Projects/Python/Django/django_google_authentication/venv'
+setenv VIRTUAL_ENV '/home/vin/Desktop/Projects/Python/django/django_google_authentication/venv'
 
 set _OLD_VIRTUAL_PATH="$PATH:q"
 setenv PATH "$VIRTUAL_ENV:q/bin:$PATH:q"

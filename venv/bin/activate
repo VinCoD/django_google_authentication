@@ -46,7 +46,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV='/home/vin/Desktop/Projects/Python/Django/django_google_authentication/venv'
+VIRTUAL_ENV='/home/vin/Desktop/Projects/Python/django/django_google_authentication/venv'
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

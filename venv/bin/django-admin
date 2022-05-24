@@ -1,4 +1,4 @@
-#!/home/vin/Desktop/Projects/Python/Django/django_google_authentication/venv/bin/python
+#!/home/vin/Desktop/Projects/Python/django/django_google_authentication/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

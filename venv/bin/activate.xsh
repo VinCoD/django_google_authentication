@@ -28,7 +28,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"/home/vin/Desktop/Projects/Python/Django/django_google_authentication/venv"
+$VIRTUAL_ENV = r"/home/vin/Desktop/Projects/Python/django/django_google_authentication/venv"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]
